@@ -21,7 +21,7 @@ Dieses Repository dokumentiert meine Erfahrungen, Herausforderungen und Lösunge
 
 - Android Package kann nicht installiert werden (wegen Administratorrechte, weil ich mit IBB-Laptop arbeite)
     ![image](https://github.com/user-attachments/assets/6b55a4c4-3de6-4c13-ac7a-3778dc456bb6)
-
+    - Lösung: das Problem an It-Abteilung weiterleiten.  
 
 
 ## Wichtige Lernressourcen
